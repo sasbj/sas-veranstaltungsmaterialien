@@ -20,6 +20,14 @@ Die Veranstaltungen des SAS Plattform Netzwerks bieten Ihnen als Verantwortliche
 
 Um immer auf dem laufenden zu bleiben tretten Sie bitte der [SAS Plattform Netzwerkcommunity](https://communities.sas.com/t5/SAS-Plattform-Netzwerk/cmp-p/grouphub%3APlattform_Netzwerk) bei.
 
+### [Visual Analytics Netzwerk Treffen](./VANT)
+
+Der Community-Treffpunkt für Analysten, Reportdesigner und Verantwortliche von SAS Umgebungen.
+
+Die Veranstaltungen des SAS Visual Analytics Netzwerks bieten Ihnen von Erfahrungen anderer Kunden zu lernen, mit Experten und Entscheidungsträgern von SAS zu diskutieren sowie Informationen zu Innovationen rund um die SAS LÖsung Visual Analytcs aus erster Hand zu erhalten.
+
+Um immer auf dem laufenden zu bleiben tretten Sie bitte der ... bei.
+
 ### [SAS Club Austria](./SAS%20Club%20Austria)
 
 Der SAS Club ist das Informationsforum und die Diskussionsplattform für SAS Anwender in Österreich mit dem Fokus auf Data Science und SAS Programmierung. Wir tauschen uns zu Produktneuigkeiten, aktuellen Trends am Markt und SAS Tipps und Tricks aus.
